@@ -1,1 +1,1 @@
-I have a good understand about Map Reduce Functions.
+I have a good understand about Map Reduce Filter.
